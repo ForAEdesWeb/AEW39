@@ -4,8 +4,8 @@ class JConfig {
 	public $offline_message = '這個網站目前關閉進行維護中。<br />請之後再回來觀看。';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = '網站批發 - 白紋資訊';
-	public $editor = 'tinymce';
+	public $sitename = '全球彈簧 - 精密彈簧';
+	public $editor = 'codemirror';
 	public $captcha = '0';
 	public $list_limit = '20';
 	public $access = '1';
@@ -15,7 +15,7 @@ class JConfig {
 	public $host = '127.0.0.1';
 	public $user = 'factory';
 	public $password = 'wrAH2wep';
-	public $db = 'factory';
+	public $db = 'ccspringDsaTw';
 	public $dbprefix = 'mp75b_';
 	public $live_site = '';
 	public $secret = 'r0wd2lyQzk84YrvU';
@@ -31,8 +31,8 @@ class JConfig {
 	public $offset = 'UTC';
 	public $mailonline = '1';
 	public $mailer = 'mail';
-	public $mailfrom = 'sense.katherine@gmail.com';
-	public $fromname = '網站批發 - 視覺觀';
+	public $mailfrom = 'cncu.spring@msa.hinet.net';
+	public $fromname = '全球彈簧有限公司';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
@@ -43,8 +43,8 @@ class JConfig {
 	public $caching = '0';
 	public $cache_handler = 'file';
 	public $cachetime = '15';
-	public $MetaDesc = '不可思議的網站設計, 手機, 電腦, 平板三個願望一次滿足, 畫面內容隨心所欲, 卻如此簡單迅速, 立即體驗這不可思議 的感覺吧！';
-	public $MetaKeys = '網站, 網站設計, 網站版型, 手機, 電腦, 平板, 多國語言, 網站管理介面, 網站前端, 網站後端, SEO, 搜尋引擎, 關鍵字, Responsive, 企業形象, 一頁式網站, One page, 活動官方網站, 形象首頁, 電子型錄網站, 購物車網站, 客製化網站, css, less, sass';
+	public $MetaDesc = '本公司採用CNC設備自動化生產一次成型，並持續研發製造技術及擴充生產設備。我們主要承製各種精密彈簧、彈片、各種線材成型；如五金用品、玩具用品、電子用品、機械用品、汽機車用品、文具用品、飾品專用等等。皆可依照客戶之需求製造。我們更秉持為客戶提供合理的價格，優良的品質及高效率的服務。竭誠為您服務，為我們永不改變企業精神。';
+	public $MetaKeys = '彈簧, 彈簧配件, 鏈條, 鋼珠, 華司, R型插銷, 扣環, 扣環規格, 模具彈簧, 彈簧規格, CNC設備. 五金用品, 玩具用品, 電子用品, 機械用品, 汽機車用品, 文具用品, 飾品專用, 客製彈簧, 代工製造, 設計製造';
 	public $MetaTitle = '1';
 	public $MetaAuthor = '1';
 	public $MetaVersion = '0';
@@ -54,8 +54,8 @@ class JConfig {
 	public $sef_suffix = '1';
 	public $unicodeslugs = '1';
 	public $feed_limit = '10';
-	public $log_path = '/var/www/factory.aedew.com/logs';
-	public $tmp_path = '/var/www/factory.aedew.com/tmp';
+	public $log_path = '/var/www/ccspring.dsa.tw/logs';
+	public $tmp_path = '/var/www/ccspring.dsa.tw/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $memcache_persist = '1';
